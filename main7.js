@@ -1,3 +1,4 @@
+//EJERCICIO 07
 function cargarMensaje(callback) {
     setTimeout(function(){
         callback("Mensaje cargado");
